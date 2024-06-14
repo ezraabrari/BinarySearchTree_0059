@@ -111,5 +111,9 @@ int main() {
 		char ch;
 		cin >> ch;
 		cout << endl;
+
+		switch (ch) {
+
+		}
 	}
 }
